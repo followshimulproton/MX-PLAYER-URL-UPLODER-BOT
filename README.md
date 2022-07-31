@@ -12,7 +12,7 @@ If you find any bugs, report at @Doctorstra_1
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/followshimulproton/MX-PLAYER-URL-UPLODER-BOT)
 
 #### Run in your VPS
 
